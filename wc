@@ -1,0 +1,1 @@
+wc: returns the number of lines, words and bytes in the file that has been passed as the argument.
